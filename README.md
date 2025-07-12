@@ -67,7 +67,7 @@ Quotes sourced from famous personalities for educational and practice purposes.
 ## 📌 Author
 
 - **Soha Adnan**  
-- [Your LinkedIn Profile](www.linkedin.com/in/soha-adnan-36b117349)  
+- [Your LinkedIn Profile](www.linkedin.com/in/soha-adnan)  
 - [Your GitHub Profile](https://github.com/Soha-025)
 
 ---
