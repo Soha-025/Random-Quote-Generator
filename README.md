@@ -27,9 +27,13 @@ A simple, aesthetic and interactive web application that displays random quotes 
 ## 📂 Project Structure
 
 /category-quote-generator/
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 ---
@@ -64,6 +68,6 @@ Quotes sourced from famous personalities for educational and practice purposes.
 
 - **Soha Adnan**  
 - [Your LinkedIn Profile](www.linkedin.com/in/soha-adnan-36b117349)  
-- [Your GitHub Profile](https://github.com/your-username)
+- [Your GitHub Profile](https://github.com/Soha-025)
 
 ---
