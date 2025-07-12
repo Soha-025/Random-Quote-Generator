@@ -26,7 +26,7 @@ A simple, aesthetic and interactive web application that displays random quotes 
 
 ## 📂 Project Structure
 
-/category-quote-generator/
+/random-quote-generator/
 
 ├── index.html
 
@@ -42,7 +42,7 @@ A simple, aesthetic and interactive web application that displays random quotes 
 
 1. **Clone the repository:**
 
-git clone https://github.com/your-username/category-quote-generator.git
+git clone https://github.com/Soha-025/random-quote-generator.git
 
 2. **Open `index.html` in your browser.**
 
