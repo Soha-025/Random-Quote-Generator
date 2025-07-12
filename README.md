@@ -68,6 +68,6 @@ Quotes sourced from famous personalities for educational and practice purposes.
 
 - **Soha Adnan**  
 - [Your LinkedIn Profile](www.linkedin.com/in/soha-adnan)  
-- [Your GitHub Profile](https://github.com/Soha-025)
+- [Your GitHub Profile](https://github.com/Soha-025-36b117349)
 
 ---
