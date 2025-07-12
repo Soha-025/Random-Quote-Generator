@@ -5,12 +5,6 @@ A simple, aesthetic and interactive web application that displays random quotes 
 
 ---
 
-## 📸 Demo
-
-> Live Demo: *[https://soha-025.github.io/Random-Quote-Generator]*
-
----
-
 ## 📌 Features
 
 - 5 categories of quotes:
