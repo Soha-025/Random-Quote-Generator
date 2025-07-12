@@ -7,7 +7,7 @@ A simple, aesthetic and interactive web application that displays random quotes 
 
 ## 📸 Demo
 
-> Live Demo: *[(https://soha-025.github.io/Random-Quote-Generator/)]*
+> Live Demo: *[https://soha-025.github.io/Random-Quote-Generator/]*
 
 ---
 
@@ -24,4 +24,46 @@ A simple, aesthetic and interactive web application that displays random quotes 
 - Smooth hover effects on buttons
 - Separated **CSS** and **JavaScript** files for clean code structure
 
+## 📂 Project Structure
 
+/category-quote-generator/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+---
+
+## 🚀 How to Use
+
+1. **Clone the repository:**
+
+git clone https://github.com/your-username/category-quote-generator.git
+
+2. **Open `index.html` in your browser.**
+
+3. **Select any category** from the dropdown and click **"Get Quote"**.
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
+
+---
+
+## 🎨 Credits
+
+Quotes sourced from famous personalities for educational and practice purposes.
+
+---
+
+## 📌 Author
+
+- **Soha Adnan**  
+- [Your LinkedIn Profile](www.linkedin.com/in/soha-adnan-36b117349)  
+- [Your GitHub Profile](https://github.com/your-username)
+
+---
