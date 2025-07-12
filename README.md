@@ -1,6 +1,5 @@
-# Random-Quote-Generator
 
-# 📜 Category Quote Generator
+# 📜 Random Quote Generator
 
 A simple, aesthetic and interactive web application that displays random quotes based on the category selected by the user. Built using **HTML**, **CSS**, and **JavaScript**.
 
@@ -8,7 +7,7 @@ A simple, aesthetic and interactive web application that displays random quotes 
 
 ## 📸 Demo
 
-> Live Demo: *[Add your GitHub Pages link here after deploying]*
+> Live Demo: *[(https://soha-025.github.io/Random-Quote-Generator/)]*
 
 ---
 
